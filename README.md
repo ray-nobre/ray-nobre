@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ray-nobre
 
-- Estudante da Alura
+- Estudante da {Alura}(https://www.alura.com.br)
